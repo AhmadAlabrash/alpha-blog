@@ -5,8 +5,7 @@
 The platform is designed to simulate a real-world financial media site with structured content, categories, tags, and dynamic engagement metrics.
 
 
-![Dashboard](README-assets/dashboard.png)
-
+![Dashboard](https://raw.githubusercontent.com/AhmadAlabrash/alpha-blog/main/README-assets/dashboard.png)
 
 ---
 
@@ -39,7 +38,7 @@ The platform is designed to simulate a real-world financial media site with stru
 
   * Built for expansion (Admin panel, trending system, recommendations)
 
-![Home Page](README-assets/home.png)
+![Home Page](https://raw.githubusercontent.com/AhmadAlabrash/alpha-blog/main/README-assets/home.png)
 
 
 ---
