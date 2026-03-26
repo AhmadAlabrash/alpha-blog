@@ -4,6 +4,10 @@
 
 The platform is designed to simulate a real-world financial media site with structured content, categories, tags, and dynamic engagement metrics.
 
+
+![Dashboard](README-assets/dashboard.png)
+
+
 ---
 
 ## 📌 Features
@@ -34,6 +38,9 @@ The platform is designed to simulate a real-world financial media site with stru
 * ⚡ **Scalable Structure**
 
   * Built for expansion (Admin panel, trending system, recommendations)
+
+![Home Page](README-assets/home.png)
+
 
 ---
 
