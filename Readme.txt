@@ -4,6 +4,8 @@
 
 The platform is designed to simulate a real-world financial media site with structured content, categories, tags, and dynamic engagement metrics.
 
+![Project Diagram](project-tools.png)
+
 
 ![Dashboard](./README-assets/dashboard.png)
 ---
