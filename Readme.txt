@@ -7,7 +7,7 @@ The platform is designed to simulate a real-world financial media site with stru
 ![Project Diagram](project-tools.png)
 
 
-![Dashboard](./README-assets/dashboard.png)
+![Dashboard](README-assets/dashboard.png)
 ---
 
 ## 📌 Features
